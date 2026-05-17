@@ -1,7 +1,7 @@
 # VPN Domain Extractor — auto-generated
 # Repo: marcinx98x/vpn-bia-a-lista
-# Ostatnia aktualizacja: 17.05.2026, 20:39:32
-# Domen łącznie: 155
+# Ostatnia aktualizacja: 17.05.2026, 20:43:18
+# Domen łącznie: 173
 #
 # Router URL: https://raw.githubusercontent.com/marcinx98x/vpn-bia-a-lista/main/vpn biała lista.txt
 
@@ -12,11 +12,13 @@ api.permutive.com
 at-app.cdntvn.pl
 b2c-www.redefine.pl
 b2c.redefine.pl
+bookmarkdb.vod.tvp.pl
 cac.redefine.pl
 cdn-s-lb2.pluscdn.pl
 cdn.cookielaw.org
 connect.facebook.net
 dai-discoveryengage.tvn.pl
+fonts.googleapis.com
 fonts.gstatic.com
 gapl.hit.gemius.pl
 http-intake.logs.datadoghq.eu
@@ -72,6 +74,7 @@ pagead2.googlesyndication.com
 perun.ipresso.pl
 pix2.services.tvn.pl
 player.pl
+polityka-prywatnosci.tvp.pl
 polsatboxgo.pl
 pro.hit.gemius.pl
 r-scale-01.dcs.redcdn.pl
@@ -127,6 +130,7 @@ r-scale-d4.dcs.redcdn.pl
 r-scale-d5.dcs.redcdn.pl
 r-scale-da.dcs.redcdn.pl
 r-scale-db.dcs.redcdn.pl
+r-scale-dd.dcs.redcdn.pl
 r-scale-de.dcs.redcdn.pl
 r-scale-e0.dcs.redcdn.pl
 r-scale-e5.dcs.redcdn.pl
@@ -138,13 +142,23 @@ r.dcs.redcdn.pl
 rcontent.services.tvn.pl
 redirector.redefine.pl
 rr1---sn-aigl6nz7.googlevideo.com
+rr4---sn-aigzrnze.googlevideo.com
+rsdt-waw1602-229.tvp.pl
 rts.ipsos.pl
 s-eu-1.pushpushgo.com
+s.tvp.pl
+s1.tvp.pl
+s3.tvp.pl
+s5.tvp.pl
+s7.tvp.pl
+s8.tvp.pl
+sdt-thinx11-171.tvp.pl
 securepubads.g.doubleclick.net
 servedby.flashtalking.com
 sqs.eu-central-1.amazonaws.com
 stage-mackerel.nvtvt.com
 static.player.pl
+tdbc.redge.media
 tools.services.tvn.pl
 tps.doubleverify.com
 tvn-media.ipresso.pl
@@ -152,7 +166,11 @@ tvn.adocean.pl
 tvn.hit.gemius.pl
 tvn.pl
 tvn2.adocean.pl
+tvpgapl.hit.gemius.pl
+tvppl.hit.gemius.pl
+vod.tvp.pl
 wake.tvn.pl
+web.geb.snrbox.com
 www.cloudflare.com
 www.google-analytics.com
 www.googletagmanager.com
