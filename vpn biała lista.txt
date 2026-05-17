@@ -24,3 +24,143 @@ prod.us-east-1.sonar.prime-video.amazon.dev
 ters-draper1.eu-west-1.aiv-delivery.net
 unagi-eu.amazon.com
 www.primevideo.com
+
+# VPN Domain Extractor
+# Sesja: TVP VOD
+# Data: 17.05.2026
+# Żądania: 270 | Domeny: 29
+
+# === WIDEO / CDN ===
+sdt-thinx10-190.tvp.pl
+s.tvp.pl
+vod.tvp.pl
+lb2-e2-46.pluscdn.pl
+polityka-prywatnosci.tvp.pl
+b2c-www.redefine.pl
+b2c.redefine.pl
+cac.redefine.pl
+r-scale-dd.dcs.redcdn.pl
+r.dcs.redcdn.pl
+
+# === API ===
+bookmarkdb.vod.tvp.pl
+
+# === ZASOBY ===
+web.geb.snrbox.com
+fonts.gstatic.com
+tvppl.hit.gemius.pl
+www.gstatic.com
+www.googletagmanager.com
+tvpgapl.hit.gemius.pl
+fonts.googleapis.com
+s4.tvp.pl
+s2.tvp.pl
+s9.tvp.pl
+s3.tvp.pl
+s8.tvp.pl
+s1.tvp.pl
+imasdk.googleapis.com
+securepubads.g.doubleclick.net
+
+# === INNE ===
+tdbc.redge.media
+pro.hit.gemius.pl
+pagead2.googlesyndication.com
+
+# VPN Domain Extractor
+# Sesja: TVP VOD
+# Data: 17.05.2026
+# Żądania: 270 | Domeny: 29
+
+# === WIDEO / CDN ===
+sdt-thinx10-190.tvp.pl
+s.tvp.pl
+vod.tvp.pl
+lb2-e2-46.pluscdn.pl
+polityka-prywatnosci.tvp.pl
+b2c-www.redefine.pl
+b2c.redefine.pl
+cac.redefine.pl
+r-scale-dd.dcs.redcdn.pl
+r.dcs.redcdn.pl
+
+# === API ===
+bookmarkdb.vod.tvp.pl
+
+# === ZASOBY ===
+web.geb.snrbox.com
+fonts.gstatic.com
+tvppl.hit.gemius.pl
+www.gstatic.com
+www.googletagmanager.com
+tvpgapl.hit.gemius.pl
+fonts.googleapis.com
+s4.tvp.pl
+s2.tvp.pl
+s9.tvp.pl
+s3.tvp.pl
+s8.tvp.pl
+s1.tvp.pl
+imasdk.googleapis.com
+securepubads.g.doubleclick.net
+
+# === INNE ===
+tdbc.redge.media
+pro.hit.gemius.pl
+pagead2.googlesyndication.com
+
+# VPN Domain Extractor
+# Sesja: Polsatgo
+# Data: 17.05.2026
+# Żądania: 527 | Domeny: 43
+
+# === WIDEO / CDN ===
+polsatboxgo.pl
+ipla.pluscdn.pl
+b2c-www.redefine.pl
+lb2-e2-46.pluscdn.pl
+yag.redefine.pl
+ipla-e1-107.pluscdn.pl
+ipla-e1-99.pluscdn.pl
+ipla-e1-108.pluscdn.pl
+redirector.redefine.pl
+ipla-e2-42.pluscdn.pl
+ipla-e1-105.pluscdn.pl
+ipla-e2-49.pluscdn.pl
+ipla-e2-45.pluscdn.pl
+ipla-e1-109.pluscdn.pl
+ipla-e1-102.pluscdn.pl
+ipla-e2-41.pluscdn.pl
+ipla-e2-43.pluscdn.pl
+ipla-e2-39.pluscdn.pl
+ipla-e1-100.pluscdn.pl
+ipla-e1-101.pluscdn.pl
+ipla-e2-48.pluscdn.pl
+ipla-e1-103.pluscdn.pl
+ipla-e1-104.pluscdn.pl
+ipla-e1-106.pluscdn.pl
+ipla-e2-46.pluscdn.pl
+ipla-e2-47.pluscdn.pl
+ipla-e2-40.pluscdn.pl
+ipla-e2-44.pluscdn.pl
+cdn-s-lb2.pluscdn.pl
+lb2.pluscdn.pl
+cac.redefine.pl
+
+# === ZASOBY ===
+www.gstatic.com
+www.recaptcha.net
+connect.facebook.net
+fonts.gstatic.com
+imasdk.googleapis.com
+gapl.hit.gemius.pl
+accounts.google.com
+www.googletagmanager.com
+s-eu-1.pushpushgo.com
+pagead2.googlesyndication.com
+
+# === INNE ===
+pro.hit.gemius.pl
+ipla.hit.stat24.com
+
+
