@@ -15,24 +15,6 @@ ssl.p.jwpcdn.com
 *.jwpcdn.com
 *.jwplatform.com
 
-canalplus.com
-*.canalplus.com
-canalplus.pl
-*.canalplus.pl
-canal-plus.com
-*.canal-plus.com
-canalplus-cdn.net
-*.canalplus-cdn.net
-*.p-cdnvod-edge*.canalplus-cdn.net
-canal-plus.pl
-*.canal-plus.pl
-secure-gen-hapi.canal-plus.com
-secure-webtv-static.canal-plus.com
-*.canal-plus-bo.net
-*.akamaihd.net
-*.akamaized.net
-*.edgekey.net
-
 polsatboxgo.pl
 *.polsatboxgo.pl
 cyfrowypolsat.pl
