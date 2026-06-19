@@ -111,6 +111,7 @@ media.fly.cdn.hbomax.com
 
 gov.pl
 
+feniks-site24.pl
 thepiratebaye.org
 
 xhaccess.com
