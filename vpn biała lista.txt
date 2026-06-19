@@ -108,3 +108,10 @@ media.fly.cdn.hbomax.com
 *.akamaized.net
 *.edgekey.net
 *.lumen.com
+
+gov.pl
+
+feniks-site24.pl
+thepiratebaye.org
+
+xhaccess.com
