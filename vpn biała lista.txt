@@ -111,6 +111,8 @@ media.fly.cdn.hbomax.com
 
 gov.pl
 
+http://mag.dino.ws
+
 feniks-site24.pl
 thepiratebaye.org
 
