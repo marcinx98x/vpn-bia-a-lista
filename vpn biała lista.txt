@@ -1,3 +1,4 @@
+#Player.pl
 player.pl
 *.player.pl
 tvn.pl
@@ -15,6 +16,7 @@ ssl.p.jwpcdn.com
 *.jwpcdn.com
 *.jwplatform.com
 
+#Polsat Box Go
 polsatboxgo.pl
 *.polsatboxgo.pl
 cyfrowypolsat.pl
@@ -42,6 +44,7 @@ redcdn.pl
 *.akamaized.net
 *.edgekey.net
 
+#TVP VOD
 tvp.pl
 *.tvp.pl
 vod.tvp.pl
@@ -60,6 +63,7 @@ redcdn.pl
 tvp.info
 *.tvp.info
 
+#SkyShowtime
 skyshowtime.com
 *.skyshowtime.com
 corporate.skyshowtime.com
@@ -88,6 +92,7 @@ mediatailor.eu-west-1.amazonaws.com
 *.akamaized.net
 *.edgekey.net
 
+#HBO MAX
 max.com
 *.max.com
 play.max.com
@@ -109,6 +114,7 @@ media.fly.cdn.hbomax.com
 *.edgekey.net
 *.lumen.com
 
+#PL Sites
 gov.pl
 
 #IPTV
@@ -177,8 +183,10 @@ vs2142.vcdn.biz
 
 http://mag.dino.ws
 
+#Torrents Sites
 feniks-site24.pl
 thepiratebaye.org
 
+#Adult Sites
 xhaccess.com
 xes.pl
